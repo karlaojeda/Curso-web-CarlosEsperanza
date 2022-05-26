@@ -1,0 +1,28 @@
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+/*Enlace sin visitar*/
+a:link {
+    color: red;
+}
+/*Enlace visitado*/
+
+a:visited {
+    color: black;
+}
+
+/*Estado del enlace mientras se pasa el mouse*/
+a:hover{
+    background: #4170d6;
+    color: white;
+}
+ys
+/*Estado del enlace mientras se esta haciendo clicks*/
+
+a:active{
+    text-decoration: underline;
+    color: black;
+}
