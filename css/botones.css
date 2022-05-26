@@ -1,0 +1,62 @@
+body{
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    max-width: 20px 0px;
+}
+
+.btn{
+background-color: #32021f;
+color: #fff;
+font-size: 16px;
+text-decoration: none;
+padding: 15px 20px;
+display: inline-block;
+margin: 10px 0px;
+}
+
+.btn:hover{
+    opacity: .8;
+}
+
+/*Tamanios*/
+
+.small{
+    font-size: 14px;
+    padding: 10px 15px;
+}
+
+.medium{
+    font-size: 16px;
+    padding: 15px 20px;
+}
+
+.big{
+    font-size: 18px;
+    padding: 20px 25px;
+}
+
+.extra-big{
+    font-size: 20px;
+    padding: 25px 30px;
+}
+
+/*color*/
+.azul{
+    background-color: #246eb6;
+}
+
+.verde{
+    background-color: #4fb560;
+}
+
+.naranja{
+    background-color: #f9a03f;
+}
+
+/*Efectos*/
+.border-radius{
+    border-radius: 20px ;
+}
