@@ -243,3 +243,38 @@ footer .contacto .formulario .boton {
 footer .contacto .formulario .boton:hover {
     background-color: #387bea;
 }
+
+footer .redes-sociales {
+    background-color: #636363;
+    padding: 60px 0;
+}
+
+footer .redes-sociales .contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+footer .redes-sociales a {
+    text-align: center;
+    width: 100px;
+    display: block;
+    padding: 15px 0;
+    border-radius: 3px;
+    margin: 0 20px;
+}
+
+footer .redes-sociales .facebook:hover {
+    background-color: #1877f2;
+}
+
+footer .redes-sociales .github:hover {
+    background-color: #f5f5f5;
+}
+
+footer .redes-sociales .tiktok:hover {
+    background-color: #f5f5f5;
+}
+
+footer .redes-sociales .instagram:hover {
+    background-color: #e1306c;
+}
